@@ -1,0 +1,92 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1180" width="1600" height="1180" font-family="Inter, Helvetica, Arial, sans-serif">
+<defs><marker id="m0" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#97a8bd"/></marker><marker id="m1" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#fbbf24"/></marker><marker id="m2" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#4ade80"/></marker><marker id="m3" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#38bdf8"/></marker><marker id="m4" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#f472b6"/></marker><marker id="m5" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#5f6f86"/></marker></defs>
+<rect width="1600" height="1180" fill="#0e1013"/>
+<text x="60" y="62" font-size="30" fill="#e5ebf3" font-weight="700" text-anchor="start">AI[r]TraffiCTRL™</text>
+<text x="60" y="92" font-size="14" fill="#4ade80" font-weight="600" text-anchor="start" letter-spacing="3">SYSTEM OVERVIEW</text>
+<text x="1540" y="62" font-size="17" fill="#97a8bd" font-weight="400" text-anchor="end">One human, a layered fleet, and the places the work lives.</text>
+<rect x="340" y="120" width="600" height="92" rx="14" fill="#1c1a12" stroke="#fbbf24" stroke-width="2"/>
+<circle cx="374" cy="152" r="15" fill="#0e1013" stroke="#fbbf24" stroke-width="2"/>
+<text x="374" y="157.5" font-size="15" fill="#fbbf24" font-weight="700" text-anchor="middle">1</text>
+<text x="402" y="157" font-size="13" fill="#fbbf24" font-weight="700" text-anchor="start" letter-spacing="2">THE HUMAN OWNER · CHIEF ARCHITECT</text>
+<text x="374" y="192" font-size="21" fill="#e5ebf3" font-weight="600" text-anchor="start">Says what is wanted, and decides</text>
+<line x1="640" y1="214" x2="640" y2="252" stroke="#fbbf24" stroke-width="2.5" marker-end="url(#m1)" marker-start="url(#m1)"/>
+<rect x="340" y="254" width="600" height="112" rx="14" fill="#13171f" stroke="#38bdf8" stroke-width="2"/>
+<circle cx="374" cy="286" r="15" fill="#0e1013" stroke="#38bdf8" stroke-width="2"/>
+<text x="374" y="291.5" font-size="15" fill="#38bdf8" font-weight="700" text-anchor="middle">2</text>
+<text x="402" y="291" font-size="13" fill="#38bdf8" font-weight="700" text-anchor="start" letter-spacing="2">JOINT CHIEFS OF STAFF</text>
+<text x="374" y="324" font-size="20" fill="#e5ebf3" font-weight="600" text-anchor="start">The most capable AI models: plan, review, advise</text>
+<text x="374" y="350" font-size="14.5" fill="#97a8bd" font-weight="400" text-anchor="start">for example Claude (Fable), cGPT (Astra), Grok</text>
+<line x1="640" y1="368" x2="640" y2="426" stroke="#38bdf8" stroke-width="2.5" marker-end="url(#m3)" marker-start="url(#m3)"/>
+<circle cx="640" cy="540" r="175" fill="none" stroke="#1a2230" stroke-width="1.5" stroke-dasharray="3 7"/>
+<circle cx="640" cy="540" r="110" fill="#0f1a14" stroke="#4ade80" stroke-width="2.5"/>
+<path d="M 630 492 L 624 540 H 656 L 650 492 Z" fill="none" stroke="#4ade80" stroke-width="2"/><rect x="614" y="468" width="52" height="22" rx="4" fill="none" stroke="#4ade80" stroke-width="2"/><line x1="640" y1="468" x2="640" y2="452" stroke="#4ade80" stroke-width="2"/>
+<circle cx="566" cy="567" r="15" fill="#0e1013" stroke="#4ade80" stroke-width="2"/>
+<text x="566" y="572.5" font-size="15" fill="#4ade80" font-weight="700" text-anchor="middle">3</text>
+<text x="588" y="572" font-size="13.5" fill="#4ade80" font-weight="700" text-anchor="start" letter-spacing="1.5">CONTROL TOWER</text>
+<text x="640" y="596" font-size="14" fill="#e5ebf3" font-weight="500" text-anchor="middle">shows everything</text>
+<text x="640" y="615" font-size="14" fill="#e5ebf3" font-weight="500" text-anchor="middle">in one place</text>
+<circle cx="88" cy="364" r="15" fill="#0e1013" stroke="#38bdf8" stroke-width="2"/>
+<text x="88" y="369.5" font-size="15" fill="#38bdf8" font-weight="700" text-anchor="middle">4</text>
+<text x="110" y="369" font-size="13" fill="#38bdf8" font-weight="700" text-anchor="start" letter-spacing="1.5">THE WORKING FLEET</text>
+<rect x="75" y="390" width="250" height="80" rx="14" fill="#13171f" stroke="#38bdf8" stroke-width="1.5"/>
+<text x="200" y="426" font-size="18" fill="#e5ebf3" font-weight="600" text-anchor="middle">Specialist bots</text>
+<text x="200" y="449" font-size="13.5" fill="#97a8bd" font-weight="400" text-anchor="middle">one job each</text>
+<line x1="530.7179885098155" y1="501.09701856336477" x2="331" y2="430" stroke="#38bdf8" stroke-width="2" marker-end="url(#m3)" marker-start="url(#m3)"/>
+<rect x="75" y="500" width="250" height="80" rx="14" fill="#13171f" stroke="#38bdf8" stroke-width="1.5"/>
+<text x="200" y="536" font-size="18" fill="#e5ebf3" font-weight="600" text-anchor="middle">Local models</text>
+<text x="200" y="559" font-size="13.5" fill="#97a8bd" font-weight="400" text-anchor="middle">run on the owner&#x27;s machine</text>
+<line x1="524.0" y1="540.0" x2="331" y2="540" stroke="#38bdf8" stroke-width="2" marker-end="url(#m3)" marker-start="url(#m3)"/>
+<rect x="75" y="610" width="250" height="80" rx="14" fill="#13171f" stroke="#38bdf8" stroke-width="1.5"/>
+<text x="200" y="646" font-size="18" fill="#e5ebf3" font-weight="600" text-anchor="middle">Sub-agents</text>
+<text x="200" y="669" font-size="13.5" fill="#97a8bd" font-weight="400" text-anchor="middle">small helpers for one task</text>
+<line x1="530.7179885098155" y1="578.9029814366353" x2="331" y2="650" stroke="#38bdf8" stroke-width="2" marker-end="url(#m3)" marker-start="url(#m3)"/>
+<text x="200" y="726" font-size="13.5" fill="#5f6f86" font-weight="400" text-anchor="middle">teams form as needed</text>
+<line x1="640" y1="652" x2="640" y2="732" stroke="#97a8bd" stroke-width="2.5" marker-end="url(#m0)"/>
+<rect x="340" y="734" width="600" height="88" rx="14" fill="#13171f" stroke="#fbbf24" stroke-width="2"/>
+<circle cx="374" cy="766" r="15" fill="#0e1013" stroke="#fbbf24" stroke-width="2"/>
+<text x="374" y="771.5" font-size="15" fill="#fbbf24" font-weight="700" text-anchor="middle">5</text>
+<text x="402" y="771" font-size="13" fill="#fbbf24" font-weight="700" text-anchor="start" letter-spacing="2.5">THE CHECK</text>
+<text x="374" y="804" font-size="20" fill="#e5ebf3" font-weight="600" text-anchor="start">A different agent reviews the work</text>
+<line x1="640" y1="824" x2="640" y2="862" stroke="#97a8bd" stroke-width="2.5" marker-end="url(#m0)"/>
+<rect x="340" y="864" width="600" height="88" rx="14" fill="#13171f" stroke="#f472b6" stroke-width="2"/>
+<circle cx="374" cy="896" r="15" fill="#0e1013" stroke="#f472b6" stroke-width="2"/>
+<text x="374" y="901.5" font-size="15" fill="#f472b6" font-weight="700" text-anchor="middle">6</text>
+<text x="402" y="901" font-size="13" fill="#f472b6" font-weight="700" text-anchor="start" letter-spacing="2.5">THE RECORD</text>
+<text x="374" y="934" font-size="20" fill="#e5ebf3" font-weight="600" text-anchor="start">Written down: who did what, when</text>
+<path d="M 340 908 H 290 V 740 Q 290 660 550 610" fill="none" stroke="#4ade80" stroke-width="2" marker-end="url(#m2)"/>
+<text x="274" y="774" font-size="14" fill="#4ade80" font-weight="400" text-anchor="end">status flows</text>
+<text x="274" y="793" font-size="14" fill="#4ade80" font-weight="400" text-anchor="end">back to the board</text>
+<rect x="1060" y="300" width="480" height="560" rx="28" fill="#11151c" stroke="#263042" stroke-width="1.5"/>
+<text x="1088" y="338" font-size="13" fill="#97a8bd" font-weight="700" text-anchor="start" letter-spacing="2.5">WHERE THE WORK LIVES</text>
+<text x="1088" y="364" font-size="14.5" fill="#97a8bd" font-weight="400" text-anchor="start">ATC is the interface between these environments</text>
+<circle cx="1222.0" cy="532" r="118" fill="#38bdf8" fill-opacity="0.10" stroke="#38bdf8" stroke-width="2"/>
+<circle cx="1378.0" cy="532" r="118" fill="#4ade80" fill-opacity="0.10" stroke="#4ade80" stroke-width="2"/>
+<circle cx="1222.0" cy="688" r="118" fill="#f472b6" fill-opacity="0.10" stroke="#f472b6" stroke-width="2"/>
+<circle cx="1378.0" cy="688" r="118" fill="#fbbf24" fill-opacity="0.10" stroke="#fbbf24" stroke-width="2"/>
+<text x="1188.0" y="498" font-size="16.5" fill="#e5ebf3" font-weight="600" text-anchor="middle">Local computer</text>
+<text x="1188.0" y="518" font-size="13" fill="#97a8bd" font-weight="400" text-anchor="middle">personal files</text>
+<text x="1412.0" y="498" font-size="16.5" fill="#e5ebf3" font-weight="600" text-anchor="middle">Online storage</text>
+<text x="1412.0" y="518" font-size="13" fill="#97a8bd" font-weight="400" text-anchor="middle">Dropbox · iCloud</text>
+<text x="1188.0" y="718" font-size="16.5" fill="#e5ebf3" font-weight="600" text-anchor="middle">Notes vault</text>
+<text x="1188.0" y="738" font-size="13" fill="#97a8bd" font-weight="400" text-anchor="middle">e.g. Obsidian</text>
+<text x="1412.0" y="718" font-size="16.5" fill="#e5ebf3" font-weight="600" text-anchor="middle">uORCL*</text>
+<text x="1412.0" y="738" font-size="13" fill="#97a8bd" font-weight="400" text-anchor="middle">owner&#x27;s knowledge</text>
+<circle cx="1300.0" cy="610" r="30" fill="#0e1013" stroke="#e5ebf3" stroke-width="1.5"/>
+<text x="1300.0" y="615" font-size="14" fill="#e5ebf3" font-weight="700" text-anchor="middle">ATC</text>
+<text x="1088" y="838" font-size="13" fill="#fbbf24" font-weight="400" text-anchor="start">* coming soon</text>
+<line x1="756" y1="540" x2="1054" y2="540" stroke="#97a8bd" stroke-width="2.5" marker-end="url(#m0)" marker-start="url(#m0)"/>
+<text x="908.0" y="528" font-size="13.5" fill="#97a8bd" font-weight="400" text-anchor="middle">reads and files</text>
+<rect x="1060" y="900" width="480" height="84" rx="14" fill="#13171f" stroke="#5f6f86" stroke-width="1.5" stroke-dasharray="7 6"/>
+<text x="1082" y="932" font-size="13" fill="#5f6f86" font-weight="700" text-anchor="start" letter-spacing="2.5">FROM OUTSIDE</text>
+<text x="1082" y="960" font-size="15" fill="#97a8bd" font-weight="400" text-anchor="start">data exports from consumer AI apps</text>
+<line x1="1398.0" y1="900" x2="1398.0" y2="810" stroke="#5f6f86" stroke-width="2" stroke-dasharray="7 6" marker-end="url(#m5)"/>
+<rect x="60" y="1010" width="470" height="84" rx="14" fill="#13171f" stroke="#fbbf24" stroke-width="1.5"/>
+<text x="82" y="1042" font-size="13" fill="#fbbf24" font-weight="700" text-anchor="start" letter-spacing="2">AREA51 · QUARANTINE</text>
+<text x="82" y="1069" font-size="14.5" fill="#97a8bd" font-weight="400" text-anchor="start">anything new from outside is screened before it joins</text>
+<rect x="570" y="1010" width="470" height="84" rx="14" fill="#13171f" stroke="#5f6f86" stroke-width="1.5" stroke-dasharray="7 6"/>
+<text x="592" y="1042" font-size="13" fill="#5f6f86" font-weight="700" text-anchor="start" letter-spacing="2">PLANNED · MCP SERVER</text>
+<text x="592" y="1069" font-size="14.5" fill="#97a8bd" font-weight="400" text-anchor="start">one standard door for any agent to check in</text>
+<text x="1060" y="1034" font-size="14" fill="#97a8bd" font-weight="400" text-anchor="start">* uORCL: User-Owned Repository</text>
+<text x="1060" y="1055" font-size="14" fill="#97a8bd" font-weight="400" text-anchor="start">  for Cognition &amp; Learning. Coming soon.</text>
+<text x="800" y="1140" font-size="16" fill="#97a8bd" font-weight="500" text-anchor="middle">Agents propose. The human accepts. The builder is never the checker.</text>
+</svg>
